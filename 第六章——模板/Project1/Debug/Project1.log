@@ -1,0 +1,11 @@
+﻿  li6.1.cpp
+  li6.2.cpp
+  li6.3.cpp
+  li6.4.cpp
+  常用排序.cpp
+  课后练习.cpp
+  正在生成代码...
+C:\Users\ZY\source\repos\c++程序设计学习\第六章——模板\Project1\li6.1.cpp(26,39): warning C4305:  “初始化”: 从“double”到“float”截断
+C:\Users\ZY\source\repos\c++程序设计学习\第六章——模板\Project1\common.h(140): warning C4715:  “orderList<element<int>,100>::Binarysearch”: 不是所有的控件路径都返回值
+C:\Users\ZY\source\repos\c++程序设计学习\第六章——模板\Project1\common.h(140): warning C4715:  “orderList<element2,100>::Binarysearch”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> C:\Users\ZY\source\repos\c++程序设计学习\第六章——模板\Project1\Debug\Project1.exe

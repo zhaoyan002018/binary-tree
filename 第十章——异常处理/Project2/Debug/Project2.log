@@ -1,0 +1,7 @@
+﻿  异常规范.cpp
+C:\Users\ZY\source\repos\c++程序设计学习\第十章——异常处理\Project2\异常规范.cpp(7,42): warning C4290:  忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+C:\Users\ZY\source\repos\c++程序设计学习\第十章——异常处理\Project2\异常规范.cpp(8,56): warning C4290:  忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+C:\Users\ZY\source\repos\c++程序设计学习\第十章——异常处理\Project2\异常规范.cpp(13,26): warning C4290:  忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+C:\Users\ZY\source\repos\c++程序设计学习\第十章——异常处理\Project2\异常规范.cpp(14,33): warning C4290:  忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+C:\Users\ZY\source\repos\c++程序设计学习\第十章——异常处理\Project2\异常规范.cpp(15,42): warning C4290:  忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  Project2.vcxproj -> C:\Users\ZY\source\repos\c++程序设计学习\第十章——异常处理\Project2\Debug\Project2.exe

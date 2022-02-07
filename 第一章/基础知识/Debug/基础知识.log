@@ -1,0 +1,5 @@
+﻿  1.2.cpp
+C:\Users\ZY\source\repos\c++程序设计学习\第一章\基础知识\1.2.cpp(8,24): warning C4305:  “初始化”: 从“double”到“float”截断
+C:\Users\ZY\source\repos\c++程序设计学习\第一章\基础知识\1.2.cpp(8,33): warning C4305:  “初始化”: 从“double”到“float”截断
+C:\Users\ZY\source\repos\c++程序设计学习\第一章\基础知识\1.2.cpp(9,40): warning C4101:  “ch4”: 未引用的局部变量
+  基础知识.vcxproj -> C:\Users\ZY\source\repos\c++程序设计学习\第一章\基础知识\Debug\基础知识.exe

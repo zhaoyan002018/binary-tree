@@ -1,0 +1,11 @@
+﻿  课后习题.cpp
+C:\Users\ZY\source\repos\c++程序设计学习\第八章——继承与多态\20211122\公司类.h(55,13): warning C4244:  “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\ZY\source\repos\c++程序设计学习\第八章——继承与多态\20211122\公司类.h(94,13): warning C4244:  “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\ZY\source\repos\c++程序设计学习\第八章——继承与多态\20211122\公司类.h(118,13): warning C4244:  “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\ZY\source\repos\c++程序设计学习\第八章——继承与多态\20211122\公司类.h(133,13): warning C4244:  “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\ZY\source\repos\c++程序设计学习\第八章——继承与多态\20211122\公司类.h(147,13): warning C4244:  “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\ZY\source\repos\c++程序设计学习\第八章——继承与多态\20211122\课后习题.cpp(13,51): warning C4305:  “参数”: 从“double”到“float”截断
+C:\Users\ZY\source\repos\c++程序设计学习\第八章——继承与多态\20211122\课后习题.cpp(14,47): warning C4305:  “参数”: 从“double”到“float”截断
+C:\Users\ZY\source\repos\c++程序设计学习\第八章——继承与多态\20211122\课后习题.cpp(24,68): warning C4305:  “参数”: 从“double”到“float”截断
+C:\Users\ZY\source\repos\c++程序设计学习\第八章——继承与多态\20211122\课后习题.cpp(25,61): warning C4305:  “参数”: 从“double”到“float”截断
+  20211122.vcxproj -> C:\Users\ZY\source\repos\c++程序设计学习\第八章——继承与多态\20211122\Debug\20211122.exe
